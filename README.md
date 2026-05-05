@@ -1,9 +1,22 @@
 # 👩‍💻 Java Programming Portfolio
 
 ## About Me
-Hi! I'm Hafsa, a Computer Science student showcasing my Java projects from university coursework.
+Hi! I'm Hafso, a Computer Science student at **York University** passionate about **Java development** and **Object-Oriented Programming (OOP)**. 
 
-## 📚 Projects by Week
+This portfolio showcases my journey mastering:
+- **Classes & Objects** | **Inheritance** | **Polymorphism** 
+- **Encapsulation** | **Abstraction** | **Exception Handling**
+
+All through hands-on projects.
+
+## 🎓 Education
+**York University** | Computer Science Student  
+- EECS 1022: Object-Oriented Programming  
+- EECS 2031: Software Tools  
+- Currently building Java portfolio through coursework
+
+
+## Projects by Week
 
 ### Week 1: Introduction to Java
 - **HelloProgrammer** - First Java program, basic syntax and output
@@ -13,16 +26,16 @@ Hi! I'm Hafsa, a Computer Science student showcasing my Java projects from unive
 ### Week 4: Arrays & Collections (Coming soon)
 ### Week 5: Methods & Functions (Coming soon)
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Java JDK 21
 - VS Code / Terminal
 - Git & GitHub
 
-## 📫 Contact
+##  Contact
 - GitHub: [Hafso2121](https://github.com/Hafso2121)
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: 
 
-## 🎯 Recruiter Notes
+## Recruiter Notes
 This portfolio demonstrates my growth in:
 - Object-Oriented Programming
 - Problem-solving with Java
