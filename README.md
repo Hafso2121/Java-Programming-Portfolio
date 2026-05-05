@@ -1,4 +1,4 @@
-# 👩‍💻 Java Programming Portfolio
+# Java Programming Portfolio
 
 ## About Me
 Hi! I'm Hafso, a Computer Science student at **York University** passionate about **Java development** and **Object-Oriented Programming (OOP)**. 
@@ -9,7 +9,7 @@ This portfolio showcases my journey mastering:
 
 All through hands-on projects.
 
-## 🎓 Education
+## Education
 **York University** | Computer Science Student  
 - EECS 1022: Object-Oriented Programming  
 - EECS 2031: Software Tools  
