@@ -18,10 +18,18 @@ All through hands-on projects.
 
 ## Projects by Week
 
-### Week 1: Introduction to Java
-- **HelloProgrammer** - First Java program, basic syntax and output
+  ### Week 1 - Introduction to Java
+- `Assignment1.java` - Print statements, numbers, patterns
+- `problem1.java` - Name, age, sum, float, patterns
 
-### Week 2: Variables & Data Types (Coming soon)
+### Week 2 - Variables & Data Types  
+- `assignment4.java` - byte, short, int, long operations
+- `floatingPointDemo.java` - float variables
+- `integer_Demo.java` - integer operations
+- `problemsOfSyntaxBasicConstructs.java` - Car class (accelerate, brake, get_speed)
+- `project1.java` - Project practice
+- `student.java` - Student class
+
 ### Week 3: Control Flow & Loops (Coming soon)
 ### Week 4: Arrays & Collections (Coming soon)
 ### Week 5: Methods & Functions (Coming soon)
